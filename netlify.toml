@@ -15,4 +15,3 @@
     from = "/*"
     to = "https://block-development.netlify.app/404"
     status = 404
-    force = true
